@@ -12,7 +12,7 @@ const [menu, setmenu] = useState("shop")
   return (
     <div className='navbar'>
         <div className="nav-logo">
-            <img src={logo} alt="" />
+            <a href="/"><img src={logo} alt=""  /></a> 
             {/* <p>Handicap Store</p> */}
         </div>
         <ul className="nav-menu">
