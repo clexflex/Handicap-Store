@@ -1,0 +1,13 @@
+1.have to run both bacnkend and frontend
+2.go to each admin,backend,frontend integrated terminal and run below command
+
+
+-to run the backend
+node index.js
+
+-to run the frontend
+npm start
+
+-to run the admin pannel
+npm run dev
+
